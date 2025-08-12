@@ -49,7 +49,7 @@ pip install "numpy<2"
 - **Port already in use**: Run Streamlit on a different port:
 
 ```bash
-streamlit run rag02_streamlit.py --server.port 8502
+streamlit run rag_streamlit.py --server.port 8502
 ```
 
 - **Slow first run**: Model download happens once and is cached.
