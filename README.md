@@ -53,9 +53,3 @@ streamlit run rag02_streamlit.py --server.port 8502
 ```
 
 - **Slow first run**: Model download happens once and is cached.
-
-## Push to GitHub
-
-```bash
-
-```
